@@ -12,6 +12,13 @@
     padding: 0;
   }
 
+#smallferrari1{
+  visibility: hidden;
+}
+  #smallferrari2{
+  visibility: hidden;
+}
+  
   #gallery {
     -moz-column-count: 4 !important;
     -webkit-column-count: 4 !important;
@@ -35,6 +42,12 @@
     border-left: none;
     height: 90vh !important;
   }
+  #smallferrari1{
+  visibility: hidden;
+}
+  #smallferrari2{
+  visibility: hidden;
+}
 }
 
 @media (max-width: 767.98px) {
@@ -43,6 +56,12 @@
     border-left: none;
     height: 0 !important;
   }
+  #smallferrari1{
+  visibility: hidden;
+}
+  #smallferrari2{
+  visibility: hidden;
+}
 }
 
 
@@ -50,6 +69,12 @@
   html {
     font-size: 0.8em;
   }
+  #smallferrari1{
+  visibility: hidden;
+}
+  #smallferrari2{
+  visibility: hidden;
+}
 
 
   #linea{
