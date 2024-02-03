@@ -60,11 +60,13 @@
     border-left: none;
     height: 0 !important;
   }
-  #smallferrari1{
+#smallferrari1{
   visibility: hidden;
+   display: none;
 }
   #smallferrari2{
   visibility: hidden;
+     display: none;
 }
 }
 
@@ -93,20 +95,9 @@
     padding: 0%;
   }
 
-  #smallferrari1 {
-    width: 20%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0;
-  }
-
   #nopadding1 {
     margin-left: 0.5vw !important;
     min-height: 600px !important;
-  }
-
-  #smallferrari2 {
-    display: none;
   }
 
   #gallery {
